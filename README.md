@@ -10,20 +10,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_SITE"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jarrentobias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jarren.tobias24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jarrentobias.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🪨 About me
 
-- 🎓 Texas A&M, B.S. Computer Science
+- 🎓 Texas A&M, B.S. Computer Science, Emphasis in Business and Cybersecurity
 - 💼 Software Engineer at Accenture
 - 🔨 Building full-stack apps, automations, and AI-assisted tools on the side
-- 🌱 Currently learning: _swap in whatever you're into right now_
-- 🏕️ Off the keyboard: backpacking and combat sports
+- 🌱 Currently learning: DDIA
+- 🏕️ Off the keyboard: lifting, combat sports
 
 ### 🛠️ Tech stack
 
