@@ -5,7 +5,7 @@
 <h2 align="center">Hey, I'm Jarren 👋</h2>
 
 <p align="center">
-  Software engineer in Dallas. Full-stack by trade, security-curious by training.<br/>
+  Software Engineer in Dallas<br/>
   <i>One must imagine the dev happy.</i>
 </p>
 
