@@ -62,12 +62,16 @@
   <img src="https://streak-stats.demolab.com?user=jarn180&theme=tokyonight&hide_border=true" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarn180&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
+-->
 
 ---
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jarn180&color=f0b45a&style=flat-square&label=visitors" />
 </p>
+-->
