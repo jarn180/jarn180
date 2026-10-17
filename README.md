@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/sisyphus.gif" alt="Sisyphus pushing a boulder up an endless hill" width="100%" />
-</p>
-
 <h2 align="center">Hey, I'm Jarren 👋</h2>
 
 <p align="center">
