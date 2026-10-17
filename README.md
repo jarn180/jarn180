@@ -41,6 +41,7 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+<!--
 ### 📌 Featured projects
 
 | Project | What it does | Stack |
@@ -48,6 +49,7 @@
 | [Budgeting App](https://github.com/YOUR_USERNAME/REPO) | Splits each paycheck into buckets by percentage | React, TypeScript, Supabase |
 | [House Finder](https://github.com/YOUR_USERNAME/REPO) | Chatbot that helps you search for a home | TypeScript, LLM APIs |
 | [Air Filter Shipments](https://github.com/YOUR_USERNAME/REPO) | Shipment scheduling system for a renters insurance product | Node.js, SQLite |
+-->
 
 ### 📊 GitHub stats
 
