@@ -16,7 +16,7 @@
 ### 🪨 About me
 
 - 🎓 Texas A&M, B.S. Computer Science, Emphasis in Business and Cybersecurity
-- 💼 Software Engineer at Accenture
+- 💼 Member of Technical Staff at Beagle/Corgi (YC S24)
 - 🔨 Building full-stack apps, automations, and AI-assisted tools on the side
 - 🌱 Currently learning: DDIA
 - 🏕️ Off the keyboard: lifting, combat sports
