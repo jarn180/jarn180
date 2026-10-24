@@ -1,8 +1,7 @@
 <h2 align="center">Hey, I'm Jarren 👋</h2>
 
 <p align="center">
-  Software Engineer in Dallas<br/>
-  <i>One must imagine the dev happy.</i>
+  Software Engineer in Dallas
 </p>
 
 <p align="center">
